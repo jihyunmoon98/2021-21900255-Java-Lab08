@@ -10,7 +10,7 @@ import edu.handong.csee.java.hw2.converters.*;
  * @author Jihyun Moon
  * @since 2021.04.13
  */
-public class IntegrateConverter {
+public class IntegratedConverter {
     /*
     * save the input in fromValue 
     */
@@ -22,7 +22,7 @@ public class IntegrateConverter {
      */
     public static void main(String[] args) {
 
-        IntegrateConverter myConverter = new IntegrateConverter();
+        IntegratedConverter myConverter = new IntegratedConverter();
 
         myConverter.run(args);
 
